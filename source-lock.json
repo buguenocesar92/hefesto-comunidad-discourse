@@ -1,0 +1,11 @@
+{
+  "product": "hefesto-comunidad",
+  "discourse_version": "2026.7.3",
+  "discourse_commit": "705c6593c3000eabbfc39ff0e2b727849d337108",
+  "launcher_commit": "1deba5fb8e7b6dd9c1b485a8a36ceeacebb7387b",
+  "base_image": "discourse/base:2.0.20260915-0028@sha256:5028d077b061225507e7093fda1ff5bdc64d483b5c0397776f9a52c50008cd9b",
+  "network": "hefesto-comunidad",
+  "path": "/var/discourse",
+  "container": "app",
+  "captured": "2026-10-16"
+}
